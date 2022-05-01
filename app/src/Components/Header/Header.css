@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    background-color: aqua;
+    height: 50px;
+    width: 100%;
+}
+
+.list {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+     
+}
+
+.list li {
+    padding: 40px;
+}

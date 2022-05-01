@@ -1,0 +1,21 @@
+.Footer {
+    display: flex;
+    align-items: center;
+    background-color:aquamarine ;
+    padding: 5px;
+    margin-top: 30px;
+    justify-content: center;
+    list-style: none;
+
+}
+.PersonalData {
+    padding: 20px;
+    margin: 20px 0px 0px 100px;
+    text-decoration: none;
+    float: left;
+    
+}
+.PersonalData li {
+    list-style: none;
+}
+
